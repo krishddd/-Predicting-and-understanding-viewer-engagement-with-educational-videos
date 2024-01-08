@@ -1,0 +1,2 @@
+# -Predicting-and-understanding-viewer-engagement-with-educational-videos
+ Predicting and understanding viewer engagement with educational videosPredicting and understanding viewer engagement with educational videos Oct 2023 - Nov 2023Oct 2023 - Nov 2023 Video Engagement Prediction (Python, Machine Learning): Developed predictive models using educational video dataset with diverse properties like transcripts
